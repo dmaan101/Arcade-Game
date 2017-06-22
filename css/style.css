@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+}
+html { overflow-y: hidden; }
+.nomargin{
+    margin-top: 0px;
+}
